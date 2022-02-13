@@ -13,3 +13,4 @@
 - FaunaDB (Banco de dados para aplicações serverless)
 - NextAuth
 - Stripe (API de pagamentos)
+- Prismic CMS (Headless CMS)
