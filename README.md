@@ -1,14 +1,14 @@
-# Ignews
+# Ignews 🚀
 
 ## Aplicação desenvolvida utilizando o Next.js
 
-## Funcionalidades
+## Funcionalidades 💻
 - Autenticação com o Github utilizando o NextAuth
 - Inscrição no newsteller utilizando a API de pagamento do stripe
 - Leitura das notícias do newsteller
 - Breve resumo das notícias para usuários não inscritos na aplicação
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas ⚙️
 - Next
 - React
 - SASS
@@ -17,7 +17,7 @@
 - Stripe (API de pagamentos)
 - Prismic CMS (Headless CMS)
 
-## Habilidades desenvolvidas
+## Habilidades desenvolvidas 👨‍💻
 - Autenticação com NextAuth 
 - Estilização com SASS
 - Banco de dados serverless com o FaunaDB
@@ -26,4 +26,4 @@
 - Webhooks como stripe
 
 ## Aplicação
-[Foto da aplicação](./ignews.png)
+[!Foto da aplicação](./ignews.png)
