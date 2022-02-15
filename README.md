@@ -26,4 +26,4 @@
 - Webhooks como stripe
 
 ## Aplicação
-[!Foto da aplicação](./ignews.png)
+![Foto da aplicação](./ignews.png)
