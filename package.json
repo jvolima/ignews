@@ -32,6 +32,7 @@
     "@types/react": "^17.0.38",
     "babel-jest": "^27.5.1",
     "eslint-config-next": "12.0.10",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^27.5.1",
     "jest-dom": "^4.0.0",
     "typescript": "^4.5.5"
