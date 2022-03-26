@@ -16,6 +16,7 @@
 - NextAuth
 - Stripe (API de pagamentos)
 - Prismic CMS (Headless CMS)
+- Jest 
 
 ## Habilidades desenvolvidas 👨‍💻
 - Autenticação com NextAuth 
@@ -24,6 +25,7 @@
 - Criação de painel administrativo com o Prismic
 - Pagamento com o stripe
 - Webhooks como stripe
+- Testes unitários
 
 ## Aplicação
 ![Foto da aplicação](./ignews.png)
